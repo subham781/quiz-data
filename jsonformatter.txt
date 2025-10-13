@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of India?",
+      "a": "Mumbai",
+      "b": "New Delhi",
+      "c": "Kolkata",
+      "d": "Chennai",
+      "correct": "New Delhi"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "a": "Earth",
+      "b": "Mars",
+      "c": "Jupiter",
+      "d": "Venus",
+      "correct": "Mars"
+    },
+    {
+      "question": "Who wrote the national anthem of India?",
+      "a": "Bankim Chandra Chatterjee",
+      "b": "Rabindranath Tagore",
+      "c": "Sarojini Naidu",
+      "d": "Mahatma Gandhi",
+      "correct": "Rabindranath Tagore"
+    },
+    {
+      "question": "Which gas do plants absorb from the atmosphere?",
+      "a": "Oxygen",
+      "b": "Carbon Dioxide",
+      "c": "Nitrogen",
+      "d": "Hydrogen",
+      "correct": "Carbon Dioxide"
+    },
+    {
+      "question": "What is the largest ocean in the world?",
+      "a": "Indian Ocean",
+      "b": "Atlantic Ocean",
+      "c": "Arctic Ocean",
+      "d": "Pacific Ocean",
+      "correct": "Pacific Ocean"
+    },
+    {
+      "question": "Which is the smallest prime number?",
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "5",
+      "correct": "2"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "a": "Alexander Graham Bell",
+      "b": "Thomas Edison",
+      "c": "Isaac Newton",
+      "d": "Albert Einstein",
+      "correct": "Alexander Graham Bell"
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "a": "China",
+      "b": "Japan",
+      "c": "Thailand",
+      "d": "South Korea",
+      "correct": "Japan"
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "a": "Amazon River",
+      "b": "Nile River",
+      "c": "Ganga River",
+      "d": "Yangtze River",
+      "correct": "Nile River"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "a": "O2",
+      "b": "CO2",
+      "c": "H2O",
+      "d": "NaCl",
+      "correct": "H2O"
+    }
+  ]
+}
