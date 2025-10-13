@@ -1,5 +1,4 @@
-{
-  "questions": [
+ [
     {
       "question": "What is the capital of India?",
       "a": "Mumbai",
