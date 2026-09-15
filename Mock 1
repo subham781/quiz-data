@@ -1,0 +1,28 @@
+{
+  "paperId": "phy_ohms_law_01",
+  "title": "Physics Chapter Test - Ohm's Law",
+  "subject": "Physics",
+  "chapter": "Ohm's Law",
+  "exam": "JEE Main / NEET",
+  "totalQuestions": 10,
+  "totalMarks": 40,
+  "durationMinutes": 20,
+  "negativeMarking": true,
+  "negativeMarks": 1,
+  "questions": [
+    {
+      "qNo": 1,
+      "question": "Ohm's law states that:",
+      "options": {
+        "A": "V = IR",
+        "B": "V = I/R",
+        "C": "I = VR",
+        "D": "R = VI"
+      },
+      "correctAnswer": "A",
+      "marks": 4,
+      "explanation": "According to Ohm's law..."
+    },
+    ...
+  ]
+}
